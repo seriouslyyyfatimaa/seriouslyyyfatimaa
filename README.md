@@ -1,9 +1,3 @@
-##                                                            Hi there 👋 I am Fatima Zubair
-
-<!--
-**seriouslyyyfatimaa/seriouslyyyfatimaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Fatima Zubair</h1>
 <h3 align="center">Passionate Computer Science student with a keen interest in Artificial Intelligence.Skilled in Python, Java, JavaScript, C, HTML, and CSS, with hands-on coding experience.</h3>
 
